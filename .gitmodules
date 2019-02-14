@@ -1,0 +1,6 @@
+[submodule "Blog/themes/jeffprod"]
+	path = Blog/themes/jeffprod
+	url = https://github.com/Tazeg/hugo-blog-jeffprod.git
+[submodule "Blog/public"]
+	path = Blog/public
+	url = https://github.com/teskemj/teskemj.github.io.git
