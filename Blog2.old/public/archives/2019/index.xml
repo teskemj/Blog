@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Teske&#39;s Blog</title>
+    <link>http://teskemj.github.io/archives/2019/</link>
+    <description>Recent content in 2019 on Teske&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Feb 2019 11:56:20 -0600</lastBuildDate>
+    
+        <atom:link href="http://teskemj.github.io/archives/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World From My Python Docker Container</title>
+      <link>http://teskemj.github.io/2019/hello-world-from-my-python-docker-container/</link>
+      <pubDate>Sat, 23 Feb 2019 11:56:20 -0600</pubDate>
+      
+      <guid>http://teskemj.github.io/2019/hello-world-from-my-python-docker-container/</guid>
+      <description>Getting Started&amp;hellip;Again It&amp;rsquo;s Saturday and I was reading my @Twitter feed and saw a few Kubernates and Docker links so I thought I would fire up my Docker Desktop on my, uh desktop. I stumbled across this Getting Started with Docker link and thought I would, well, get started&amp;hellip;again.
+Back Story If you&amp;rsquo;re like me, you have a horrible affliction of &amp;ldquo;shiny key&amp;rdquo; syndrome. Meaning, I&amp;rsquo;m easily distracted by shiny things.</description>
+    </item>
+    
+    <item>
+      <title>Enter 2019 With a Bang</title>
+      <link>http://teskemj.github.io/2019/enter-2019-with-a-bang/</link>
+      <pubDate>Thu, 03 Jan 2019 12:26:02 -0600</pubDate>
+      
+      <guid>http://teskemj.github.io/2019/enter-2019-with-a-bang/</guid>
+      <description>Transitioning from WordPress to Github Welcome to my first attempt at moving away from WordPress and over to github.io. This will be a trial run.
+Motivation I wanted to increase my blogs post cadence to more than a few posts a year and leverage MarkDown in the process because that&amp;rsquo;s what the cool kids are doing.
+I looked at WP and in order to add the MD plugin, you had to be a Business Plan subscriber at a mere cough cough $25/month.</description>
+    </item>
+    
+  </channel>
+</rss>
